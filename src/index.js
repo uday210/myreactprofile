@@ -48,7 +48,7 @@ const routing = (
             <a href="/Contact">Contact</a>
         </li>
         <li>
-            <a href="/myreactprofile/Login">Login..</a>
+            <a href="/myreactprofile/Login">Login</a>
         </li>
     </ul>
 </div>
