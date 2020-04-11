@@ -48,7 +48,7 @@ const routing = (
             <a href="/Contact">Contact</a>
         </li>
         <li>
-            <a href="/Login">Login</a>
+            <a href="/myreactprofile/Login">Login</a>
         </li>
     </ul>
 </div>
@@ -58,7 +58,7 @@ const routing = (
             <div class="col-lg-12">
             <Route exact path="/" component={App} />
                 <Route path="/Home" component={App} />
-                <Route path="/Login" component={Login} />
+                <Route path="/myreactprofile/Login" component={Login} />
                 <Route path="/Dashboard" component={Dashboard} />
                 <Route path="/Forgotpassword" component={Forgotpassword}/>
                 <Route path="/Covid" component={Covid}/>
